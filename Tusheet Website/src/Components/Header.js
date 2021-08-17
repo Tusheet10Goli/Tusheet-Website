@@ -21,7 +21,7 @@ export default class Header extends Component {
                          <li onClick={handleCurrent}><a href={"#skills"}>Skills</a></li>
                          <li onClick={handleCurrent}><a href={"#work"}>Work Experience</a></li>
                          <li onClick={handleCurrent}><a href={"#timeline"}>Timeline</a></li>
-                         <li onClick={handleCurrent}><a href={"#contact"}>Contact Me!</a></li>
+                         <li onClick={handleCurrent}><a href={"#contact"}>Contact Me</a></li>
                          <li onClick={handleCurrent}><a href={process.env.PUBLIC_URL + "/Downloads/Tejas_Pradeep_Resume.pdf"} download={"Tejas_Pradeep_Resume.pdf"}>Download Resume <i className={"fas fa-download"}/></a></li>
                      </ul>
                  </nav>

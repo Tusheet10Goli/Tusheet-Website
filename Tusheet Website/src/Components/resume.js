@@ -1,11 +1,11 @@
 let resume = {
     "imageUrl" : "",
-    "name" : "Tejas Pradeep",
-    "role" : "Junior at Georgia Tech, BSCS",
-    "profile_pic" : "public_images/tejas_pradeep_profile_pic.jpg",
-    "linkedIn_ID" : "https://www.linkedin.com/in/tejas-pradeep",
-    "email" : "rptejas@gatech.edu",
-    "tel_number" : "+1 512-665-0719",
+    "name" : "Tusheet Goli",
+    "role" : "Senior at Georgia Tech, BSCS",
+    "profile_pic" : "public_images/TusheetImage.jpg",
+    "linkedIn_ID" : "https://www.linkedin.com/in/tusheet",
+    "email" : "tgoli3@gatech.edu",
+    "tel_number" : "+1 470-350-4410",
     "aboutMe" : "Enthusiastic student of computer science with a passion to explore the application of the sciences, the power of technology & unleash immense opportunities." +
         " I am passionate about application of Artificial Intelligence & Information Networks in industry. " +
         "My experience at agile growth oriented environments has provided me the opportunity to put my coding knowledge to enhance user experiences and" +
@@ -13,18 +13,18 @@ let resume = {
         "I am eager to pursue opportunities that stretch my interests in full stack development and in Natural Language Processing research. ",
     "socials" : [{
         "name" : "linkedin",
-        "url" : "https://www.linkedin.com/in/tejas-pradeep",
+        "url" : "https://www.linkedin.com/in/tusheet",
         "className" : "fab fa-linkedin"
     },
     {
         "name" : "github",
-        "url" : "http://www.github.com/tejas-pradeep",
+        "url" : "http://www.github.com/Tusheet10Goli",
         "className" : "fab fa-github"
 
     },
     {
         "name" : "email",
-        "url" : "mailto:rptejas@gatech.edu",
+        "url" : "mailto:tgoli3@gatech.edu",
         "className" : "fas fa-envelope"
     }],
     "address" : "Atlanta, GA",
@@ -32,12 +32,12 @@ let resume = {
     "education" : [
         {
             "University" : "Georgia Institute of Technology",
-            "Degree" : "Bachelor's of Science",
+            "Degree" : "Bachelors of Science",
             "Major" : "Computer Science",
             "Threads" : "Intelligence and Information Info-Networks",
-            "GradMonth" : "May",
+            "GradMonth" : "December",
             "GradYear" : "2022",
-            "GPA" : "3.92",
+            "GPA" : "4.0",
             "Major GPA" : "4.0"
         }
     ],
