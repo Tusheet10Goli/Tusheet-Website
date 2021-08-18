@@ -21,8 +21,8 @@ e. Others
  ------------------------------------------------------------------ */
 
 @import url("fonts.css");
-@import url("fontello/css/fontello.css");
-@import url("font-awesome/css/font-awesome.min.css");
+/* @import url("../../node_modules/fontello/css/fontello.css"); */
+@import url("../../node_modules/font-awesome/css/font-awesome.min.css");
 
 
 html, body, div, span, object, iframe,
