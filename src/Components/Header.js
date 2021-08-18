@@ -7,7 +7,6 @@ export default class Header extends Component {
        function handleCurrent(e) {
            document.getElementsByClassName("current")[0].className = "";
            e.target.className = "current";
-
        }
        return (
          <React.Fragment>
@@ -38,7 +37,7 @@ export default class Header extends Component {
                                  resumeData.socials  && resumeData.socials.map(item => {
                                      return (
                                          <li key={item.name}>
-                                             <a href={item.url} target={""}><i className={item.className}/></a>
+                                             <a href={item.url} target={"_blank"}><i className={item.className}/></a>
                                          </li>
                                      )
                                  })

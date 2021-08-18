@@ -18,11 +18,6 @@ export default class Timeline extends Component {
                                     <p>{data.text}</p>
                                 </div>
                         </div>
-                        {/*<div className={"timeline-body"}>*/}
-                        {/*    <img src={process.env.PUBLIC_URL + "/" + data.image_url} alt=""/>*/}
-                        {/*    <p><b>{data.title}</b></p>*/}
-                        {/*    <p>{data.text}</p>*/}
-                        {/*</div>*/}
                         {data.link && (
                             <a
                                 href={data.link.url}
@@ -50,7 +45,6 @@ export default class Timeline extends Component {
                     </div>
                 </div>
             </section>
-
         )
     }
 }

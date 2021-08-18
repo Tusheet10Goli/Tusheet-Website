@@ -15,10 +15,7 @@ function Work({resumeData}) {
                 // autoPlay: true,
                 adaptiveHeight : true
             });
-        } else {
-
-
-        }
+        } else { }
     }, []);
     return (
         <section id={"work"} className={"main-content"}>
@@ -69,7 +66,6 @@ function Work({resumeData}) {
                     }
                 </div>
             </div>
-
         </section>
     );
 }
