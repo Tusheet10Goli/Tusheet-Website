@@ -15,10 +15,7 @@ function Projects({resumeData}) {
                 // autoPlay: true,
                 adaptiveHeight : true
             });
-        } else {
-
-
-        }
+        } else { }
     }, []);
     return (
         <section id={"projects"} className={"main-content"}>
@@ -26,7 +23,7 @@ function Projects({resumeData}) {
                 <div className={"three columns header-col"}>
                     <h1><span>Projects</span></h1>
                 </div>
-                <div className={"nine columns main-col work-bg"}>
+                <div className={"nine columns main-col projects-bg"}>
                     <div className="slide--parent">
                         {
                             resumeData.projects && resumeData.projects.map((item) => {
@@ -52,7 +49,7 @@ function Projects({resumeData}) {
                         }
                     </div>
                 </div>
-                <div className={"nine columns work-sm"}>
+                <div className={"nine columns projects-sm"}>
                     {
                         resumeData.projects && resumeData.projects.map((data) => {
                             return (
