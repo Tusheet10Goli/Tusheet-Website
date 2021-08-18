@@ -92,7 +92,7 @@ let resume = {
                 "over 15k users at launch.\n Analyzed user stats using Spotify's API.\nFull Stack Development on critical components of the website.\n" +
                 "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Backend: server-side scripting using php, and database management: MYSQL",
             "url" : "https://www.yugabyte.com/",
-            "image" : "public_images/yugabyte_logo_2.PNG"
+            "image" : "public_images/yugabyte_logo_2.png"
         },
         {
             "employer" : "SameTunes LLC",
@@ -103,7 +103,7 @@ let resume = {
                 "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Back-end: " +
                 "server-side scripting using php, and database management: MYSQL",
             "url" : "http://www.sametunes.com",
-            "image" : "public_images/sametunes_logo.PNG"
+            "image" : "public_images/sametunes_logo.png"
         },
         {
             "employer" : "Hisense USA",
@@ -114,7 +114,7 @@ let resume = {
                 "Developed an Android TV usage recording application that records the usage statistics, usage patterns, and tendencies of the user to suggest the\n" +
                 "provide user interested content.\n" + "Redesigned the Hisense Product Registration to support one-click device registration.",
             "url" : "https://www.hisense-usa.com/",
-            "image" : "public_images/hisense_logo.PNG"
+            "image" : "public_images/hisense_logo.png"
         },
         {
             "employer" : "Automated Algorithm Design",
@@ -124,7 +124,7 @@ let resume = {
                 "Analyzed NHS Chest X-Ray data to accurately predict the onset of diseases and increased evaluation accuracy\n" +
                 "by 27% by creating mating and mutation functions for CIFAR-10 X-Ray CV dataset.",
             "url" : "https://www.vip.gatech.edu/teams/automated-algorithm-design",
-            "image" : "public_images/ml_image.PNG"
+            "image" : "public_images/ml_image.png"
         }
     ],
     "projects" : [
@@ -136,7 +136,7 @@ let resume = {
                 "over 15k users at launch.\n Analyzed user stats using Spotify's API.\nFull Stack Development on critical components of the website.\n" +
                 "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Backend: server-side scripting using php, and database management: MYSQL",
             "url" : "https://www.yugabyte.com/",
-            "image" : "public_images/yugabyte_logo.PNG"
+            "image" : "public_images/yugabyte_logo.png"
         },
         {
             "employer" : "SameTunes LLC",
@@ -147,7 +147,7 @@ let resume = {
                 "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Back-end: " +
                 "server-side scripting using php, and database management: MYSQL",
             "url" : "http://www.sametunes.com",
-            "image" : "public_images/sametunes_logo.PNG"
+            "image" : "public_images/sametunes_logo.png"
         },
         {
             "employer" : "Hisense USA",
@@ -158,7 +158,7 @@ let resume = {
                 "Developed an Android TV usage recording application that records the usage statistics, usage patterns, and tendencies of the user to suggest the\n" +
                 "provide user interested content.\n" + "Redesigned the Hisense Product Registration to support one-click device registration.",
             "url" : "https://www.hisense-usa.com/",
-            "image" : "public_images/hisense_logo.PNG"
+            "image" : "public_images/hisense_logo.png"
         },
         {
             "employer" : "Automated Algorithm Design",
@@ -168,7 +168,7 @@ let resume = {
                 "Analyzed NHS Chest X-Ray data to accurately predict the onset of diseases and increased evaluation accuracy\n" +
                 "by 27% by creating mating and mutation functions for CIFAR-10 X-Ray CV dataset.",
             "url" : "https://www.vip.gatech.edu/teams/automated-algorithm-design",
-            "image" : "public_images/ml_image.PNG"
+            "image" : "public_images/ml_image.png"
         }
     ],
     "timelineData" : [
@@ -192,7 +192,7 @@ let resume = {
                 "color": "#018f69"
             },
             "link" : {url:"https://www.yugabyte.com/", text : "YugabyteDB"},
-            "image_url" : "public_images/yugabyte_logo.PNG"
+            "image_url" : "public_images/yugabyte_logo.png"
         },
         {
             "title" : "TA: Data Structures and Algorithms",
@@ -214,7 +214,7 @@ let resume = {
                 "color": "#018f69"
             },
             "link" : {url:"https://www.sametunes.com", text:"SameTunes: Social Music"},
-            "image_url" : "public_images/sametunes_logo.PNG"
+            "image_url" : "public_images/sametunes_logo.png"
         },
         {
             "title" : "Hisense USA",
@@ -225,7 +225,7 @@ let resume = {
                 "color": "#018f69"
             },
             "link" : {url:"https://www.hisense-usa.com/", text:"Hisense USA"},
-            "image_url" : "public_images/hisense_logo_2.JPG"
+            "image_url" : "public_images/hisense_logo_2.jpg"
         },
         {
             "title" : "Automated Algorithm Design Research Project",
@@ -236,7 +236,7 @@ let resume = {
                 "color": "#1ecbe1"
             },
             "link" : {url : "https://www.vip.gatech.edu/teams/automated-algorithm-design", text : "Automated Algorithm Design Research"},
-            "image_url" : "public_images/AAD_VIP.PNG"
+            "image_url" : "public_images/AAD_VIP.png"
         },
         {
             "title" : "TA: Object Oriented Programming",
