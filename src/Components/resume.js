@@ -92,7 +92,7 @@ let resume = {
                 "over 15k users at launch.\n Analyzed user stats using Spotify's API.\nFull Stack Development on critical components of the website.\n" +
                 "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Backend: server-side scripting using php, and database management: MYSQL",
             "url" : "https://www.yugabyte.com/",
-            "image" : "public_images/yugabyte_logo.PNG"
+            "image" : "public_images/yugabyte_logo_2.PNG"
         },
         {
             "employer" : "SameTunes LLC",
@@ -225,7 +225,7 @@ let resume = {
                 "color": "#018f69"
             },
             "link" : {url:"https://www.hisense-usa.com/", text:"Hisense USA"},
-            "image_url" : "public_images/hisense_logo.PNG"
+            "image_url" : "public_images/hisense_logo_2.JPG"
         },
         {
             "title" : "Automated Algorithm Design Research Project",
