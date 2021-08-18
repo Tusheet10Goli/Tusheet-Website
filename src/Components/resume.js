@@ -127,6 +127,50 @@ let resume = {
             "image" : "public_images/ml_image.PNG"
         }
     ],
+    "projects" : [
+        {
+            "employer" : "YugabyteDB",
+            "position" : "Platform and Cloud Intern",
+            "description" : "Co-founding member of SameTunes LLC, a startup from Georgia Tech’s Create-X program. An online\n" +
+                "portal for music compatibility driven through robust algorithm based interests match, SameTunes gained\n" +
+                "over 15k users at launch.\n Analyzed user stats using Spotify's API.\nFull Stack Development on critical components of the website.\n" +
+                "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Backend: server-side scripting using php, and database management: MYSQL",
+            "url" : "https://www.yugabyte.com/",
+            "image" : "public_images/yugabyte_logo.PNG"
+        },
+        {
+            "employer" : "SameTunes LLC",
+            "position" : "Co-Founder | Head of Algorithm Design",
+            "description" : "Co-founding member of SameTunes LLC, a startup from Georgia Tech’s Create-X program. An online\n" +
+                "portal for music compatibility driven through robust algorithm based interests match, SameTunes gained\n" +
+                "over 15k users at launch.\nAnalyzed user stats using Spotify's API.\nFull Stack Development on critical components of the website.\n" +
+                "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Back-end: " +
+                "server-side scripting using php, and database management: MYSQL",
+            "url" : "http://www.sametunes.com",
+            "image" : "public_images/sametunes_logo.PNG"
+        },
+        {
+            "employer" : "Hisense USA",
+            "position" : "Software Engineer Intern",
+            "description" : "Worked in the Research and Development Center with Hisense USA to create system and consumer applications.\n" +
+                "Worked on ACR (Automatic Content Recognition) for Hisense TVs which is a Picture and Audio Quality AI technology that recognizes TV content\n" +
+                "and launches appropriate customized settings for video and audio to enhance the overall user experience.\n" + 
+                "Developed an Android TV usage recording application that records the usage statistics, usage patterns, and tendencies of the user to suggest the\n" +
+                "provide user interested content.\n" + "Redesigned the Hisense Product Registration to support one-click device registration.",
+            "url" : "https://www.hisense-usa.com/",
+            "image" : "public_images/hisense_logo.PNG"
+        },
+        {
+            "employer" : "Automated Algorithm Design",
+            "position" : "Undergraduate Research Assistant",
+            "description" : "Automated Algorithm Design is a Google sponsored research that NPL and CV application in Genetic Machine Learning Algorithms." +
+                "Implement NLP applications to analyze meaning and sentiment in text data using Genetic Machine Learning.\n" +
+                "Analyzed NHS Chest X-Ray data to accurately predict the onset of diseases and increased evaluation accuracy\n" +
+                "by 27% by creating mating and mutation functions for CIFAR-10 X-Ray CV dataset.",
+            "url" : "https://www.vip.gatech.edu/teams/automated-algorithm-design",
+            "image" : "public_images/ml_image.PNG"
+        }
+    ],
     "timelineData" : [
         {
             "title" : "TA: Advanced Algorithm Design",

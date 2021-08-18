@@ -3,6 +3,7 @@ import ActiveMenuLink from "active-menu-link";
 import Header from "./Components/Header";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
+import Projects from './Components/Projects';
 import Skills from "./Components/Skills";
 import Timeline from "./Components/Timeline";
 import Work from "./Components/Work";
@@ -26,6 +27,7 @@ function App() {
           <Skills resumeData={resume}/>
           <Work resumeData={resume}/>
           <Timeline resumeData={resume}/>
+          <Projects resumeData={resume}/>
           <Contact/>
           <Footer resumeData = {resume}/>
       </div>
