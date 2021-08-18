@@ -27,7 +27,7 @@ let resume = {
         "className" : "fas fa-envelope"
     }],
     "address" : "Atlanta, GA",
-    "website" : "http://tusheet-goli.github.io/portfolio",
+    "website" : "https://tusheet10goli.github.io/Tusheet-Website/",
     "education" : [
         {
             "University" : "Georgia Institute of Technology",
