@@ -19,8 +19,8 @@ export default class Header extends Component {
                          <li onClick={handleCurrent}><a href={"#about"}>About Me</a></li>
                          <li onClick={handleCurrent}><a href={"#skills"}>Skills</a></li>
                          <li onClick={handleCurrent}><a href={"#work"}>Work Experience</a></li>
-                         <li onClick={handleCurrent}><a href={"#timeline"}>Timeline</a></li>
                          <li onClick={handleCurrent}><a href={"#projects"}>Projects</a></li>
+                         <li onClick={handleCurrent}><a href={"#timeline"}>Timeline</a></li>
                          <li onClick={handleCurrent}><a href={"#contact"}>Contact Me</a></li>
                          <a id={"res_down"} style={{paddingLeft: '10px'}} href={"https://drive.google.com/file/d/113hL4OznJTHzf19OoOlyYPqfWo6-Rwhy/view"} target={"_blank"}>Download Resume <i className={"fas fa-download"}/></a>
                      </ul>

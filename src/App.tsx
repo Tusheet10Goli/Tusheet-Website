@@ -14,8 +14,6 @@ import "./css/default.css";
 import "./css/layout.css";
 import "./css/media-queries.css";
 
-
-
 function App() {
     React.useEffect(() => {
         new ActiveMenuLink("#nav-wrap", {activeClass : "current", ease:"inQuad"});
@@ -26,13 +24,12 @@ function App() {
           <About resumeData = {resume}/>
           <Skills resumeData={resume}/>
           <Work resumeData={resume}/>
-          <Timeline resumeData={resume}/>
           <Projects resumeData={resume}/>
+          <Timeline resumeData={resume}/>
           <Contact/>
           <Footer resumeData = {resume}/>
       </div>
 
   );
 }
-
 export default App;

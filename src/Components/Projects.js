@@ -2,14 +2,14 @@ import React from "react";
 import $ from 'jquery';
 import Flickity from 'flickity';
 import 'flickity/dist/flickity.min.css';
-import "../css/slider.css";
+import "../css/projslider.css";
 
 function Projects({resumeData}) {
     React.useEffect(() => {
         const window_width = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
         if(window_width > 920) {
-            let slideEl = $(".slide--parent");
-            let flickity = new Flickity('.slide--parent', {
+            let slideEl = $(".slide--proj");
+            let flickity = new Flickity('.slide--proj', {
                 imagesLoaded: true,
                 wrapAround: true,
                 // autoPlay: true,
@@ -24,21 +24,21 @@ function Projects({resumeData}) {
                     <h1><span>Projects</span></h1>
                 </div>
                 <div className={"nine columns main-col projects-bg"}>
-                    <div className="slide--parent">
+                    <div className="slide--proj">
                         {
                             resumeData.projects && resumeData.projects.map((item) => {
                                 return(
-                                    <div className="parent--el">
+                                    <div className="proj--el">
                                         <div className="two--col">
                                             <div className="is-item has--img">
                                                 <figure className="the-img">
-                                                    <img src={process.env.PUBLIC_URL + "/" + item.image} alt=""/>
+                                                    <img style={{height: '250px', width: '250px'}} src={process.env.PUBLIC_URL + "/" + item.image} alt=""/>
                                                 </figure>
                                             </div>
                                             <div className="is-item has--content">
                                                 <div className="is-item--inner">
-                                                    <h1><span>{item.employer}</span></h1>
-                                                    <small>{item.position}</small>
+                                                    <h1><span>{item.task}</span></h1>
+                                                    <small><a href={item.url} target={"_blank"} style={{fontSize: '15px'}}>Link to project</a></small>  
                                                     <p>{item.description}</p>
                                                 </div>
                                             </div>
@@ -54,10 +54,10 @@ function Projects({resumeData}) {
                         resumeData.projects && resumeData.projects.map((data) => {
                             return (
                                 <div className="timeline-card">
-                                    <img src={process.env.PUBLIC_URL + "/" + data.image} alt=""/>
+                                    <img style={{height: '100px', width: '100px'}} src={process.env.PUBLIC_URL + "/" + data.image} alt=""/>
                                     <div className="container">
-                                        <h2><b>{data.employer}</b></h2>
-                                        <small>{data.position}</small>
+                                        <h2><b>{data.task}</b></h2>
+                                        <small><a href={data.url} target={"_blank"}>Link to project</a></small> 
                                         <p>{data.description}</p>
                                     </div>
                                 </div>
@@ -66,7 +66,6 @@ function Projects({resumeData}) {
                     }
                 </div>
             </div>
-
         </section>
     );
 }

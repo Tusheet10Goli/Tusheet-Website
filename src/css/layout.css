@@ -402,6 +402,10 @@ ul#nav li a:active { background-color: transparent !important; }
     display: none;
 }
 
+.projects-sm {
+    display: none;
+}
+
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */

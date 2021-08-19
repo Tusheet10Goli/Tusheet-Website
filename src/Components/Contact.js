@@ -1,4 +1,5 @@
 import React from "react";
+
 function Contact() {
     React.useEffect(() => {
         document.querySelectorAll('.card').forEach(e => {

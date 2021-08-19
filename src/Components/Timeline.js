@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import "../css/timeline-card.css";
+
 export default class Timeline extends Component {
     render () {
         let resumeData = this.props.resumeData;
