@@ -94,7 +94,7 @@ let resume = {
             "position" : "Platform and Cloud Intern",
             "description" : "Worked on the Platform team to implement backend systemd services for starting YB-Master, YB-TServer, and maintenance of " + 
             "cores and log files. I also worked on platform software upgrades and refactored/added new upgrade scripts and routines for cron to systemd upgrades." + 
-            "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and transit using HashiCorp Vault and HashiCorp Cloud. I also worked\n " +
+            "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and in-transit using HashiCorp Vault and HashiCorp Cloud. I also worked\n " +
             "integrating APIs into our cloud system and helped host Yugabyte local platform instances on the Yugabyte cloud portal.",
             "url" : "https://www.yugabyte.com/",
             "image" : "public_images/yugabyte_logo_2.png"
