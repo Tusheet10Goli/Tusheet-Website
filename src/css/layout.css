@@ -137,6 +137,15 @@ header .scrolldown a:hover { color: #11ABB0; }
 }
 .opaque { background-color: #333; }
 
+/* resume download button */
+#res_down {
+    color: white;
+}
+#res_down:hover {
+    opacity: 1.0;
+    color: #F06000;
+}
+
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
 

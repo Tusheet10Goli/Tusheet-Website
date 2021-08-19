@@ -25,6 +25,11 @@ let resume = {
         "name" : "email",
         "url" : "mailto:tgoli3@gatech.edu",
         "className" : "fas fa-envelope"
+    },
+    {
+        "name" : "resume",
+        "url" : "https://drive.google.com/file/d/113hL4OznJTHzf19OoOlyYPqfWo6-Rwhy/view",
+        "className" : "fa fa-download"
     }],
     "address" : "Atlanta, GA",
     "website" : "https://tusheet10goli.github.io/Tusheet-Website/",
