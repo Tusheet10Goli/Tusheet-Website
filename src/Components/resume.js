@@ -92,10 +92,10 @@ let resume = {
         {
             "employer" : "YugabyteDB",
             "position" : "Platform and Cloud Intern",
-            "description" : "Co-founding member of SameTunes LLC, a startup from Georgia Tech’s Create-X program. An online\n" +
-                "portal for music compatibility driven through robust algorithm based interests match, SameTunes gained\n" +
-                "over 15k users at launch.\n Analyzed user stats using Spotify's API.\nFull Stack Development on critical components of the website.\n" +
-                "Coordinated a team of four developers to create back-end schema and related database structures.\nFront-end: Bootstrap & CSS, Backend: server-side scripting using php, and database management: MYSQL",
+            "description" : "Worked on the Platform team to implement backend systemd services for starting YB-Master, YB-TServer, and maintenance of " + 
+            "cores and log files. I also worked on platform software upgrades and refactored/added new upgrade scripts and routines for cron to systemd upgrades." + 
+            "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and transit using HashiCorp Vault and HashiCorp Cloud. I also worked\n " +
+            "integrating APIs into our cloud system and helped host Yugabyte local platform instances on the Yugabyte cloud portal.",
             "url" : "https://www.yugabyte.com/",
             "image" : "public_images/yugabyte_logo_2.png"
         },

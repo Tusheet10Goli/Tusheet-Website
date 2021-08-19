@@ -54,10 +54,10 @@ function Projects({resumeData}) {
                         resumeData.projects && resumeData.projects.map((data) => {
                             return (
                                 <div className="timeline-card">
-                                    <img style={{height: '100px', width: '100px'}} src={process.env.PUBLIC_URL + "/" + data.image} alt=""/>
+                                    <img style={{height: '250px', width: '250px'}} src={process.env.PUBLIC_URL + "/" + data.image} alt=""/>
                                     <div className="container">
                                         <h2><b>{data.task}</b></h2>
-                                        <small><a href={data.url} target={"_blank"}>Link to project</a></small> 
+                                        <small><a href={data.url} target={"_blank"} style={{fontSize: '15px'}}>Link to project</a></small> 
                                         <p>{data.description}</p>
                                     </div>
                                 </div>

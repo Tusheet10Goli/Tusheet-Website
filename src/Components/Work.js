@@ -38,7 +38,7 @@ function Work({resumeData}) {
                                             <div className="is-item has--content">
                                                 <div className="is-item--inner">
                                                     <h1><span>{item.employer}</span></h1>
-                                                    <small>{item.position}</small>
+                                                    <small style={{fontSize: '15px'}}>{item.position}</small>
                                                     <p>{item.description}</p>
                                                 </div>
                                             </div>
@@ -57,7 +57,7 @@ function Work({resumeData}) {
                                     <img src={process.env.PUBLIC_URL + "/" + data.image} alt=""/>
                                     <div className="container">
                                         <h2><b>{data.employer}</b></h2>
-                                        <small>{data.position}</small>
+                                        <small style={{fontSize: '15px'}}>{data.position}</small>
                                         <p>{data.description}</p>
                                     </div>
                                 </div>
