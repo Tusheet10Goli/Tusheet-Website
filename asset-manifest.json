@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Tusheet-Website/static/css/main.5e6fec11.chunk.css",
-    "main.js": "/Tusheet-Website/static/js/main.cd4df6c9.chunk.js",
-    "main.js.map": "/Tusheet-Website/static/js/main.cd4df6c9.chunk.js.map",
-    "runtime-main.js": "/Tusheet-Website/static/js/runtime-main.71cae99a.js",
-    "runtime-main.js.map": "/Tusheet-Website/static/js/runtime-main.71cae99a.js.map",
+    "main.css": "/Tusheet-Website/static/css/main.4594b6c5.chunk.css",
+    "main.js": "/Tusheet-Website/static/js/main.568e207d.chunk.js",
+    "main.js.map": "/Tusheet-Website/static/js/main.568e207d.chunk.js.map",
+    "runtime-main.js": "/Tusheet-Website/static/js/runtime-main.fba31d28.js",
+    "runtime-main.js.map": "/Tusheet-Website/static/js/runtime-main.fba31d28.js.map",
     "static/css/2.2254ebaa.chunk.css": "/Tusheet-Website/static/css/2.2254ebaa.chunk.css",
-    "static/js/2.4a830ac2.chunk.js": "/Tusheet-Website/static/js/2.4a830ac2.chunk.js",
-    "static/js/2.4a830ac2.chunk.js.map": "/Tusheet-Website/static/js/2.4a830ac2.chunk.js.map",
-    "static/js/3.c900c733.chunk.js": "/Tusheet-Website/static/js/3.c900c733.chunk.js",
-    "static/js/3.c900c733.chunk.js.map": "/Tusheet-Website/static/js/3.c900c733.chunk.js.map",
+    "static/js/2.d3a59af4.chunk.js": "/Tusheet-Website/static/js/2.d3a59af4.chunk.js",
+    "static/js/2.d3a59af4.chunk.js.map": "/Tusheet-Website/static/js/2.d3a59af4.chunk.js.map",
+    "static/js/3.540c8f8a.chunk.js": "/Tusheet-Website/static/js/3.540c8f8a.chunk.js",
+    "static/js/3.540c8f8a.chunk.js.map": "/Tusheet-Website/static/js/3.540c8f8a.chunk.js.map",
     "index.html": "/Tusheet-Website/index.html",
     "static/css/2.2254ebaa.chunk.css.map": "/Tusheet-Website/static/css/2.2254ebaa.chunk.css.map",
-    "static/css/main.5e6fec11.chunk.css.map": "/Tusheet-Website/static/css/main.5e6fec11.chunk.css.map",
-    "static/js/2.4a830ac2.chunk.js.LICENSE.txt": "/Tusheet-Website/static/js/2.4a830ac2.chunk.js.LICENSE.txt",
+    "static/css/main.4594b6c5.chunk.css.map": "/Tusheet-Website/static/css/main.4594b6c5.chunk.css.map",
+    "static/js/2.d3a59af4.chunk.js.LICENSE.txt": "/Tusheet-Website/static/js/2.d3a59af4.chunk.js.LICENSE.txt",
     "static/media/layout.css": "/Tusheet-Website/static/media/background-image.1febc9d6.png",
     "static/media/default.css": "/Tusheet-Website/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.71cae99a.js",
+    "static/js/runtime-main.fba31d28.js",
     "static/css/2.2254ebaa.chunk.css",
-    "static/js/2.4a830ac2.chunk.js",
-    "static/css/main.5e6fec11.chunk.css",
-    "static/js/main.cd4df6c9.chunk.js"
+    "static/js/2.d3a59af4.chunk.js",
+    "static/css/main.4594b6c5.chunk.css",
+    "static/js/main.568e207d.chunk.js"
   ]
 }
