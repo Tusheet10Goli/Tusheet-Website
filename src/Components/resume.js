@@ -28,7 +28,7 @@ let resume = {
     },
     {
         "name" : "resume",
-        "url" : "https://drive.google.com/file/d/113hL4OznJTHzf19OoOlyYPqfWo6-Rwhy/view",
+        "url" : "https://drive.google.com/file/d/1IXpw1MhBltWW2EXNxanU9TJHK9Pl2MeC/view?usp=sharing",
         "className" : "fa fa-download"
     }],
     "address" : "Atlanta, GA",
@@ -91,11 +91,11 @@ let resume = {
     "work" : [
         {
             "employer" : "YugabyteDB",
-            "position" : "Platform and Cloud Intern",
-            "description" : "Worked on the Platform team to implement backend systemd services for starting YB-Master, YB-TServer, and maintenance of " + 
-            "cores and log files. I also worked on platform software upgrades and refactored/added new upgrade scripts and routines for cron to systemd upgrades." + 
-            "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and in-transit using HashiCorp Vault and HashiCorp Cloud. I also worked\n " +
-            "integrating APIs into our cloud system and helped host Yugabyte local platform instances on the Yugabyte cloud portal.",
+            "position" : "Platform and Cloud Infrastructure Intern",
+            "description" : "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and in-transit using HashiCorp Vault and HashiCorp Cloud.\n " +
+            "I also helped deploy Yugabyte Platform onto Yugabyte Cloud and worked on the API layer integrations for the cloud portal." +
+            "On the Platform team, I architected Linux native systemd services for starting YB-Master, YB-TServer, and maintenance of " + 
+            "cores and log files. I also worked on platform software upgrades and refactored/designed new in-place upgrade scripts and routines to upgrade from cron to systemd.",
             "url" : "https://www.yugabyte.com/",
             "image" : "public_images/yugabyte_logo_2.png"
         },

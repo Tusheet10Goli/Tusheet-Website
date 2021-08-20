@@ -22,7 +22,7 @@ export default class Header extends Component {
                          <li onClick={handleCurrent}><a href={"#projects"}>Projects</a></li>
                          <li onClick={handleCurrent}><a href={"#timeline"}>Timeline</a></li>
                          <li onClick={handleCurrent}><a href={"#contact"}>Contact Me</a></li>
-                         <a id={"res_down"} style={{paddingLeft: '10px'}} href={"https://drive.google.com/file/d/113hL4OznJTHzf19OoOlyYPqfWo6-Rwhy/view"} target={"_blank"}>Download Resume <i className={"fas fa-download"}/></a>
+                         <a id={"res_down"} style={{paddingLeft: '10px'}} href={"https://drive.google.com/file/d/1IXpw1MhBltWW2EXNxanU9TJHK9Pl2MeC/view?usp=sharing"} target={"_blank"}>Download Resume <i className={"fas fa-download"}/></a>
                      </ul>
                  </nav>
                  <div className={"row banner"}>
