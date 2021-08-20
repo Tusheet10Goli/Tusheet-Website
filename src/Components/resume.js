@@ -93,7 +93,7 @@ let resume = {
             "employer" : "YugabyteDB",
             "position" : "Platform and Cloud Infrastructure Intern",
             "description" : "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and in-transit using HashiCorp Vault and HashiCorp Cloud.\n " +
-            "I also helped deploy Yugabyte Platform onto Yugabyte Cloud and worked on the API layer integrations for the cloud portal." +
+            "I also helped deploy Yugabyte Platform onto Yugabyte Cloud and worked on the API layer integrations for the cloud portal. " +
             "On the Platform team, I architected Linux native systemd services for starting YB-Master, YB-TServer, and maintenance of " + 
             "cores and log files. I also worked on platform software upgrades and refactored/designed new in-place upgrade scripts and routines to upgrade from cron to systemd.",
             "url" : "https://www.yugabyte.com/",
