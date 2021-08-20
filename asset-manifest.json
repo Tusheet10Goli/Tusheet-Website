@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tusheet-Website/static/css/main.4594b6c5.chunk.css",
-    "main.js": "/Tusheet-Website/static/js/main.767be5a1.chunk.js",
-    "main.js.map": "/Tusheet-Website/static/js/main.767be5a1.chunk.js.map",
+    "main.js": "/Tusheet-Website/static/js/main.d55e0a1f.chunk.js",
+    "main.js.map": "/Tusheet-Website/static/js/main.d55e0a1f.chunk.js.map",
     "runtime-main.js": "/Tusheet-Website/static/js/runtime-main.fba31d28.js",
     "runtime-main.js.map": "/Tusheet-Website/static/js/runtime-main.fba31d28.js.map",
     "static/css/2.2254ebaa.chunk.css": "/Tusheet-Website/static/css/2.2254ebaa.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.2254ebaa.chunk.css",
     "static/js/2.d3a59af4.chunk.js",
     "static/css/main.4594b6c5.chunk.css",
-    "static/js/main.767be5a1.chunk.js"
+    "static/js/main.d55e0a1f.chunk.js"
   ]
 }
