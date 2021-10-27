@@ -90,6 +90,13 @@ let resume = {
     ],
     "work" : [
         {
+            "employer" : "Facebook",
+            "position" : "Software Engineer Intern",
+            "description" : "Incoming Software Engineer Intern at Facebook for Summer 2022.",
+            "url" : "https://www.facebookcareers.com/",
+            "image" : "public_images/Facebook.gif"
+        },
+        {
             "employer" : "YugabyteDB",
             "position" : "Platform and Cloud Infrastructure Intern",
             "description" : "On the Cloud team, I implemented backed KMS (Key Management System) encryption at rest and in-transit using HashiCorp Vault and HashiCorp Cloud.\n " +
@@ -182,6 +189,17 @@ let resume = {
         }
     ],
     "timelineData" : [
+        {
+            "title" : "Facebook",
+            "text" : "Software Engineer Intern - Menlo Park, CA",
+            "date" : "May 2022 - Aug 2022",
+            "category" : {
+                "tag": "Internship",
+                "color": "#018f69"
+            },
+            "link" : {url:"https://www.facebookcareers.com/", text:"Facebook"},
+            "image_url" : "public_images/Facebook.gif"
+        },
         {
             "title" : "TA: Advanced Algorithm Design",
             "text" : "Concepts: Java, Advanced Algorithms, Dynamic Programming, Project Organization and Creating, Student Management",
