@@ -1,16 +1,18 @@
 let resume = {
     "imageUrl" : "",
     "name" : "Tusheet Goli",
-    "role" : "Senior at Georgia Tech, BSCS/MSCS",
-    "profile_pic" : "public_images/TusheetImage.jpg",
+    "role" : "Masters in Computer Science at the Georgia Institute of Technology",
+    "profile_pic" : "public_images/TusheetImage2.jpg",
     "linkedIn_ID" : "https://www.linkedin.com/in/tusheet",
     "email" : "tgoli3@gatech.edu",
     "tel_number" : "+1 470-350-4410",
-    "aboutMe" : "Enthusiastic student of computer science with a passion to explore the application of the sciences and the power of technology. " +
-        "I am passionate about application of Artificial Intelligence, Machine Learning & Information Networks in industry. " +
-        "My experience at agile growth oriented environments has provided me the opportunity to put my coding knowledge to enhance user experiences and " +
+    "aboutMe" : "I have a B.S. degree in Computer Science with concentrations in Machine Learning, Artificial Intelligence, and Information-Internetworking at the Georgia Institute of Technology. " +
+        "I am currently pursuing my M.S. in Computer Science with a concentration in Machine Learning at the Georgia Institute of Technology. " +
+        "An enthusiastic student of computer science with a passion to explore the application of the sciences and the power of technology. " +
+        "I am passionate about the application of Artificial Intelligence, Machine Learning & Information Networks in industry. " +
+        "My experience in agile growth-oriented environments has provided me the opportunity to put my coding knowledge to enhance user experiences and " +
         "contribute towards client critical projects. " +
-        "I am eager to pursue opportunities that stretch my interests in full stack development and Machine Learning applications in industry.",
+        "I am eager to pursue opportunities that stretch my interests in full-stack development and Machine Learning applications in industry.",
     "socials" : [{
         "name" : "linkedin",
         "url" : "https://www.linkedin.com/in/tusheet",
@@ -90,11 +92,11 @@ let resume = {
     ],
     "work" : [
         {
-            "employer" : "Facebook",
+            "employer" : "Meta (Facebook)",
             "position" : "Software Engineer Intern",
-            "description" : "Incoming Software Engineer Intern at Facebook for Summer 2022.",
+            "description" : "Incoming Software Engineer Intern at Meta (Facebook) for Summer 2022 in Menlo Park, California.",
             "url" : "https://www.facebookcareers.com/",
-            "image" : "public_images/Facebook.gif"
+            "image" : "public_images/Meta.gif"
         },
         {
             "employer" : "YugabyteDB",
@@ -140,6 +142,22 @@ let resume = {
         }
     ],
     "projects" : [
+        {
+            "task" : "BusyBee",
+            "description" : "BusyBee is an innovative startup for the gig-economy. It is a platform to connect service\n"
+            + "consumers who want to outsource their everyday tasks, with providers who can do these tasks for a fee.\n"
+            + "We built an end-to-end mobile app, for not only consumers but also providers, with a rich feature set.",
+            "url" : "https://github.com/devansh2001/cs4261-mobile-app",
+            "image" : "public_images/busybee.png"
+        },
+        {
+            "task" : "ML - Phishing Classification",
+            "description" : "Preemptive identification of a website as malicious would allow system administrators to \n"
+            + "block or warn clients against imminent cyber threats.\n"
+            + "We performed a variety of supervised and unsupervised learning methods and obtained a top accuracy of 96.9% on our trained Neural Network.",
+            "url" : "https://github.com/jancijen/Phishing-Classification",
+            "image" : "public_images/phishing.png"
+        },
         {
             "task" : "Automatic Content Recognition",
             "description" : "ACR is a PQ/AQ AI technology patented by Hisense that launches appropriate customized\n"
@@ -190,7 +208,7 @@ let resume = {
     ],
     "timelineData" : [
         {
-            "title" : "Facebook",
+            "title" : "Meta (Facebook)",
             "text" : "Software Engineer Intern - Menlo Park, CA",
             "date" : "May 2022 - Aug 2022",
             "category" : {
@@ -198,12 +216,24 @@ let resume = {
                 "color": "#018f69"
             },
             "link" : {url:"https://www.facebookcareers.com/", text:"Facebook"},
-            "image_url" : "public_images/Facebook.gif"
+            "image_url" : "public_images/Meta.gif"
+        },
+        
+        {
+            "title" : "Graduate TA: AI, Robots, and Ethics",
+            "text" : "Concepts: AI Algorithms, Machine Learning Concepts, Ethical ML and AI, Ethical Decision Making, Technical Writing Skills",
+            "date" : "Jan 2022 - Present",
+            "category" : {
+                "tag": "Teaching Assistant",
+                "color": "#ef8110"
+            },
+            "link" : {url:"https://www.cc.gatech.edu/classes/AY2022/cs4002a_spring/home.html", text:"CS 4002 - Robots and Society"},
+            "image_url" : "public_images/ai_ethics.jpg"
         },
         {
             "title" : "TA: Advanced Algorithm Design",
-            "text" : "Concepts: Java, Advanced Algorithms, Dynamic Programming, Project Organization and Creating, Student Management",
-            "date" : "Aug 2021 - Present",
+            "text" : "Concepts: Java, Advanced Algorithms, Dynamic Programming, Graph Algorithms, Complexity Theory, P and NP",
+            "date" : "Aug 2021 - Dec 2021",
             "category" : {
                 "tag": "Teaching Assistant",
                 "color": "#ef8110"
